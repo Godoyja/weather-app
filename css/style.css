@@ -1,0 +1,51 @@
+#app-title{
+    display: flex;
+    justify-content: center;
+}
+
+section{
+    display:flex;
+    justify-content: space-evenly;
+    padding: 50px;
+    border-style: double;
+    border-color: darkred;
+    border-width: 10px;
+}
+
+#description-sec{
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+    align-items: center;
+    border-style: groove;
+    border-color:dodgerblue;
+    border-width:10px;
+    
+}
+
+/* Weather description DIV */
+
+#cityName{
+    border-style: groove;
+    border-color: darkgreen;
+    padding: 25px 50px;
+    border-width: 5px;
+
+}
+#tempVal{
+    border-style:groove;
+    border-width: 5px;
+    border-color: darkgreen;
+    padding: 25px;
+}
+
+
+#weatherDesc{
+    border-style:groove;
+    border-width: 5px;
+    border-color: darkgreen;
+    padding: 25px;
+}
+img{
+    padding:50px;
+}
