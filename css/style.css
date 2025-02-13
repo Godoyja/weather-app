@@ -21,6 +21,7 @@ section{
     border-color:dodgerblue;
     border-width:10px;
     
+    
 }
 
 /* Weather description DIV */
@@ -47,5 +48,8 @@ section{
     padding: 25px;
 }
 img{
+    width: 200px;
+    height: 200px;
     padding:50px;
 }
+
